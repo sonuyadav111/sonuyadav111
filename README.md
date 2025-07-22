@@ -1,4 +1,4 @@
-<h1 align="center">🙏 नमस्ते सोनू</h1>
+<h1 align="center">🙏 नमस्ते </h1>
 <h1 align="center">Hi 👋, I'm Sonu Yadav</h1>
 <h3 align="center">A passionate Software Enginner from India</h3>
 
